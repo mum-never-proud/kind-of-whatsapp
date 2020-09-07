@@ -1,2 +1,3 @@
-# kindof-whatsapp
+# kind-of-whatsapp
+
 whatsapp-clone
